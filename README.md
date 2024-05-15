@@ -17,4 +17,6 @@ function product(num1, num2) {
 }
 ```
 
+## The challenges
+[1. Introduction to JavaScript coding challenges](./0x00-Introduciton_to_JavaScript/README.md)  
 Good luck!
